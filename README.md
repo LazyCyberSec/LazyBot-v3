@@ -1,7 +1,7 @@
 # LazyBot-v3
 LazyBot v3 adalah bot Discord yang dikhususkan untuk membantu dalam pencarian dan identifikasi kerentanan pada website. Bot ini dirancang untuk membantu pengguna, terutama para profesional keamanan siber, dalam upaya mereka untuk menemukan masalah keamanan potensial pada website dengan berbagai fitur canggih
 
-![pixai-1673920335546945523-0](https://github.com/LazyCyberSec/LazyBot-v3/assets/51275510/4a02a837-62a4-449a-82b1-b38f6c00a7df)
+![Black Blue Professional Technology Billboard](https://github.com/LazyCyberSec/LazyBot-v3/assets/51275510/2ee977d9-0e66-4395-a55f-df97df3e0a81)
 
 
 ## Fitur Utama:
